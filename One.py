@@ -1,1 +1,1 @@
-print("Hello universe")
+print("Hello both country and universe")
